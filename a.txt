@@ -1,11 +1,6 @@
 TESTTSTES
 
 TESTtTEttsse
-<<<<<<< HEAD
 asdfdsf:
-=======
-
-afasd
->>>>>>> 69f1fca... teee (+1 squashed commit)
 
 modify !!!!
