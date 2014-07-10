@@ -2,10 +2,6 @@ TESTTSTES
 
 TESTtTEttsse
 
-<<<<<<< HEAD
-ttttAAAAccc
-=======
-ttttAAAA
->>>>>>> 49057136f8c1c71068f31dd9e63fe12653a5766c
+afasd
 
 modify !!!!
