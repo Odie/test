@@ -1,7 +1,11 @@
 TESTTSTES
 
 testsetest
+<<<<<<< HEAD
 asdfadddddfasdfsf
+=======
+asdfaddddddsf
+>>>>>>> c6dc30f... fadf
 TESTtTEttsse
 asdfdsf:
 
