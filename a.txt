@@ -2,12 +2,9 @@ TESTTSTES
 dfasdf:w
 sdfasdfasfdssdfasdfdsfds
 testsetest
-<<<<<<< HEAD
 asdfadddddfasdfsf
-=======
 asdfaddddddsf
->>>>>>> c6dc30f... fadf
 TESTtTEttsse
 asdfdsf:
 
-modify !!!!
+mod3ify !!!!
